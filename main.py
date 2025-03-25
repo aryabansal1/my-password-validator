@@ -2,7 +2,7 @@ import flask
 
 
 # TODO: change this to your academic email
-AUTHOR = "lumbroso@seas.upenn.edu"
+AUTHOR = "abansal1@wharton.upenn.edu"
 
 
 app = flask.Flask(__name__)
